@@ -1,0 +1,11 @@
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\bin\Debug\netcoreapp2.1\TypeSystem.deps.json
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\bin\Debug\netcoreapp2.1\TypeSystem.runtimeconfig.json
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\bin\Debug\netcoreapp2.1\TypeSystem.runtimeconfig.dev.json
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\bin\Debug\netcoreapp2.1\TypeSystem.dll
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\bin\Debug\netcoreapp2.1\TypeSystem.pdb
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\obj\Debug\netcoreapp2.1\TypeSystem.csprojAssemblyReference.cache
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\obj\Debug\netcoreapp2.1\TypeSystem.csproj.CoreCompileInputs.cache
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\obj\Debug\netcoreapp2.1\TypeSystem.AssemblyInfoInputs.cache
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\obj\Debug\netcoreapp2.1\TypeSystem.AssemblyInfo.cs
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\obj\Debug\netcoreapp2.1\TypeSystem.dll
+C:\Users\rezana.ganie\source\repos\TypeSystem\TypeSystem\obj\Debug\netcoreapp2.1\TypeSystem.pdb
